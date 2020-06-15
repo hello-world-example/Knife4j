@@ -2,3 +2,9 @@ target
 *.iml
 .idea
 HuGo/themes/book
+
+.project
+.classpath
+.settings
+.vscode
+.DS_Store

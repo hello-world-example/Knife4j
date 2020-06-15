@@ -3,59 +3,59 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://hello-world-example.github.io/Template-Hugo/ru/categories/</loc>
+    <loc>https://hello-world-example.github.io/Knife4j/ru/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hello-world-example.github.io/Template-Hugo/categories/"
+                href="https://hello-world-example.github.io/Knife4j/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://hello-world-example.github.io/Template-Hugo/cn/categories/"
+                href="https://hello-world-example.github.io/Knife4j/cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://hello-world-example.github.io/Template-Hugo/ru/categories/"
+                href="https://hello-world-example.github.io/Knife4j/ru/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://hello-world-example.github.io/Template-Hugo/ru/tags/</loc>
+    <loc>https://hello-world-example.github.io/Knife4j/ru/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hello-world-example.github.io/Template-Hugo/tags/"
+                href="https://hello-world-example.github.io/Knife4j/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://hello-world-example.github.io/Template-Hugo/cn/tags/"
+                href="https://hello-world-example.github.io/Knife4j/cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://hello-world-example.github.io/Template-Hugo/ru/tags/"
+                href="https://hello-world-example.github.io/Knife4j/ru/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://hello-world-example.github.io/Template-Hugo/ru/</loc>
+    <loc>https://hello-world-example.github.io/Knife4j/ru/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hello-world-example.github.io/Template-Hugo/"
+                href="https://hello-world-example.github.io/Knife4j/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://hello-world-example.github.io/Template-Hugo/cn/"
+                href="https://hello-world-example.github.io/Knife4j/cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://hello-world-example.github.io/Template-Hugo/ru/"
+                href="https://hello-world-example.github.io/Knife4j/ru/"
                 />
   </url>
   
